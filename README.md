@@ -1,0 +1,2 @@
+# Student-Roster
+This was a project for Scripting &amp; Programming Applications Course at WGU. The project is written using C++ and contains five classes (Student , SecurityStudent , NetworkStudent , SoftwareStudent , and  Roster ).  The program maintains a roster of students within a given course. The program reads a list of five students and uses function calls in the roster class to manipulate data in the array. The entire student list is stored in one array of students called classRosterArray.
